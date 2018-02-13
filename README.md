@@ -1,1 +1,1 @@
-# The latex file and report for mcmthesis.
+# This is the latex template and report for mcmthesis.
