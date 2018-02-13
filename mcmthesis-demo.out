@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Restatement of the Problem}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Analysis of the Problem}{}% 3
+\BOOKMARK [1][-]{section.3}{Model}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Model A: Evaluate whether a language is worth learning.}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Analysis}{subsection.3.1}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Assumption}{subsection.3.1}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Definitions and symbols}{subsection.3.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Modeling}{subsection.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Model B: The number of language speakers in the future prediction model}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Analysis}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Assumption}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Definition and symbols}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Modeling}{subsection.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Model C: Future population of China prediction model}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Analysis}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Assumption}{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Definition and symbols}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Modeling}{subsection.3.3}% 19
+\BOOKMARK [1][-]{section.4}{Application}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Data processing}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Predict: the number of users C1}{subsection.4.1}% 22
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Language difficulty rating C2}{subsection.4.1}% 23
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Language family C3}{subsection.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.2}{Problem solving}{section.4}% 25
+\BOOKMARK [1][-]{section.5}{Weakness}{}% 26
+\BOOKMARK [2][-]{subsection.5.1}{Model A}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.2}{Model B}{section.5}% 28
+\BOOKMARK [2][-]{subsection.5.3}{Model C}{section.5}% 29
